@@ -2,8 +2,7 @@
 <p align="center"><i>Developer · Builder of data tools, automation & AI-powered apps</i></p>
 
 <p align="center">
-  <a href="mailto:soumyadeshpandey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Shrutiiicodes&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <a href="mailto:deshpandey.shrutii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -15,7 +14,7 @@
 
 ### Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,nodejs,express,flask,django,fastapi,tailwind,mysql,postgres,mongodb,sqlite,git,github,docker,linux,vscode,figma,postman,wordpress&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,nodejs,flask,fastapi,tailwind,mysql,postgres,mongodb,sqlite,git,github,docker,postman,wordpress&perline=9&theme=dark" />
 </p>
 
 ### Featured projects
