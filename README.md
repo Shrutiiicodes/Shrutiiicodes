@@ -14,7 +14,7 @@
 
 ### Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nextjs,nodejs,flask,fastapi,tailwind,mysql,postgres,mongodb,sqlite,git,github,docker,postman,wordpress&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nextjs,nodejs,flask,fastapi,tailwind,mysql,postgres,mongodb,sqlite,wordpress&perline=9&theme=dark" />
 </p>
 
 ### Featured projects
@@ -35,4 +35,3 @@
 </p>
 
 ---
-<p align="center"><i>Push Mona Push</i></p>
